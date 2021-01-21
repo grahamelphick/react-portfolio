@@ -2,6 +2,8 @@ import React from "react";
 import Container from "../Container";
 import Row from "../Row";
 import Col from "../Col";
+import bioImage from "../../assets/bio-image-2.png";
+import "./style.css"
 
 function AboutMe() {
     return (
@@ -10,6 +12,8 @@ function AboutMe() {
         <Container>
             <Row>
                 <Col size="md-12">
+                    <img class="img-responsive" id="bioImage" src={bioImage}
+                        alt="Photo of Graham Elphick" style={{ float: "left", paddingRight: 20}}/>
                     <p>
                         I am a full-stack web developer with a background in communications and am always looking for a new challenge. Through
                         earning a Bachelor’s degree from Edith Cowan University and a certificate from the Coding Bootcamp at the University of

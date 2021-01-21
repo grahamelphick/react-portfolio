@@ -1,3 +1,11 @@
 nav.navbar.navbar-default {
   margin-bottom: 0;
 }
+
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-item {
+  text-align: right;
+}

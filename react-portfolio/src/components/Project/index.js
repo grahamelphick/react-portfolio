@@ -3,21 +3,21 @@ import "./style.css";
 
 function Project(props) {
     return (
-        <div>
-            <a href={props.app} target="_blank">{props.name}</a>
+        <div style={{ textAlign: "center"}}>
+            <a href={props.app} target="_blank"><strong>{props.name}</strong></a>
             <br /><br />
             <a href={props.app} target="_blank">
-                <img src={props.image} alt={props.name + " app screenshot"} className="img-responsive" width="70%" />
+                <img src={props.image} alt={props.name + " app screenshot"} className="img-responsive" style={{ width: "70%" }}/>
             </a>
             <br/>
             <a href={props.github} target="_blank">GitHub Repository</a>
             <br /><br />
-            <p>Description:
+            <p><em>Description:</em>
                 <br /><br />
                 {props.description}
             </p>
             <br />
-            <p>Technologies Used:
+            <p><em>Technologies Used:</em>
              <br /><br />
                 {props.technologies}
             </p>
