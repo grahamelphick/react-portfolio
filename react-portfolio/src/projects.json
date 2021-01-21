@@ -1,7 +1,6 @@
 [
   {
     "name": "Come Rain or Shine",
-    "image": "../assets/rainorshine-screenshot1.png",
     "github": "https://github.com/grahamelphick/holiday-weather-planner",
     "app": "https://grahamelphick.github.io/holiday-weather-planner/",
     "description": "The project will ask for the user's location so that it can display the day's forecast and provide places of interest near them by category.",
@@ -9,7 +8,6 @@
   },
   {
     "name": "Wishlist",
-    "image": "../assets/rainorshine-screenshot1.png",
     "github": "https://github.com/GrandBearSleepy/FestiveWishList",
     "app": "https://festive-wish-list.herokuapp.com/",
     "description": "The wishlist app allows the user to sign up for an account and create as many wishlists as they'd like- which are saved to a database. They can then view their wishlists in the future by logging back in. When the wishlists are viewed, the items become links to Amazon that display search results for said item.",
@@ -17,7 +15,6 @@
   },
   {
     "name": "Eat-da-burger",
-    "image": "../assets/rainorshine-screenshot1.png",
     "github": "https://github.com/grahamelphick/eat-da-burger",
     "app": "https://damp-hollows-25067.herokuapp.com/",
     "description": "This application allows the user to enter custom burgers to a list entitled 'Burgers to be Devoured' and then individually 'devour' each burger using a button click. The 'devoured' burgers then appear on a separate list entitled 'Burgers Eaten'.",
@@ -25,7 +22,6 @@
   },
   {
     "name": "Random Password Generator",
-    "image": "../assets/rainorshine-screenshot1.png",
     "github": "https://github.com/grahamelphick/week3-homework",
     "app": "https://grahamelphick.github.io/week3-homework/",
     "description": "The random password generator can create a strong password for the user that meets their selected criteria.",
@@ -33,7 +29,6 @@
   },
   {
     "name": "Work Day Scheduler",
-    "image": "../assets/rainorshine-screenshot1.png",
     "github": "https://github.com/grahamelphick/work-day-scheduler",
     "app": "https://grahamelphick.github.io/work-day-scheduler/",
     "description": "The Work Day Scheduler allows the user to keep track of the event happening within their day.",
