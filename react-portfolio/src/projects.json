@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Come Rain or Shine",
+    "image": "../assets/rainorshine-screenshot1.png",
+    "github": "https://github.com/grahamelphick/holiday-weather-planner",
+    "app": "https://grahamelphick.github.io/holiday-weather-planner/",
+    "description": "The project will ask for the user's location so that it can display the day's forecast and provide places of interest near them by category.",
+    "technologies": "HTML, CSS, Materialise, JavaScript, APIs"
+  }
+]
