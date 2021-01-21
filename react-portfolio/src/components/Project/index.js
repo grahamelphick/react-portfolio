@@ -6,7 +6,9 @@ function Project(props) {
         <div>
             <a href={props.app} target="_blank">{props.name}</a>
             <br /><br />
-            <img src={props.image} alt={props.name + " app screenshot"} className="img-responsive" width="70%"/>
+            <a href={props.app} target="_blank">
+                <img src={props.image} alt={props.name + " app screenshot"} className="img-responsive" width="70%" />
+            </a>
             <br/>
             <a href={props.github} target="_blank">GitHub Repository</a>
             <br /><br />
