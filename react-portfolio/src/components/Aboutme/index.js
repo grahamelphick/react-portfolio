@@ -13,7 +13,7 @@ function AboutMe() {
             <Row>
                 <Col size="md-12">
                     <img class="img-responsive" id="bioImage" src={bioImage}
-                        alt="Photo of Graham Elphick" style={{ float: "left", paddingRight: 20}}/>
+                        alt="Graham Elphick" style={{ float: "left", paddingRight: 20}}/>
                     <p>
                         I am a full-stack web developer with a background in communications and am always looking for a new challenge. Through
                         earning a Bachelor’s degree from Edith Cowan University and a certificate from the Coding Bootcamp at the University of

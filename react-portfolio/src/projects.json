@@ -33,5 +33,12 @@
     "app": "https://grahamelphick.github.io/work-day-scheduler/",
     "description": "The Work Day Scheduler allows the user to keep track of the event happening within their day.",
     "technologies": "JavaScript"
+  },
+  {
+    "name": "Weather Dashboard",
+    "github": " https://github.com/grahamelphick/weather-dashboard",
+    "app": " https://grahamelphick.github.io/weather-dashboard/",
+    "description": "The weather dashboard allows a user to search for a city and find a variety of weather information for said city.",
+    "technologies": "JavaScript, API's"
   }
 ]

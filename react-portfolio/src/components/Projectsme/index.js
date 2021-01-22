@@ -6,6 +6,7 @@ import wishlistScreenshot from "../../assets/wishlist-screenshot1.png";
 import burgerScreenshot from "../../assets/eat-da-burger-screenshot1.png";
 import passwordScreenshot from "../../assets/passwordgenerator-screenshot1.png";
 import schedulerScreenshot from "../../assets/workdayplanner-screenshot1.png"
+import weatherScreenshot from "../../assets/weatherdashboard-screenshot1.png"
 
 function ProjectsMe() {
     return (
@@ -49,6 +50,14 @@ function ProjectsMe() {
                 description={projects[4].description}
                 technologies={projects[4].technologies}
                 app={projects[4].app}
+            />
+            <Project
+                name={projects[5].name}
+                image={weatherScreenshot}
+                github={projects[5].github}
+                description={projects[5].description}
+                technologies={projects[5].technologies}
+                app={projects[5].app}
             />
         </div>
     )
