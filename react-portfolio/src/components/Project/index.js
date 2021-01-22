@@ -4,7 +4,7 @@ import "./style.css";
 function Project(props) {
     return (
         <div style={{ textAlign: "center"}}>
-            <a href={props.app} target="_blank"><strong>{props.name}</strong></a>
+            <a href={props.app} target="_blank" style={{fontSize:"20px"}}><strong>{props.name}</strong></a>
             <br /><br />
             <a href={props.app} target="_blank">
                 <img src={props.image} alt={props.name + " app screenshot"} className="img-responsive" style={{ width: "70%" }}/>
