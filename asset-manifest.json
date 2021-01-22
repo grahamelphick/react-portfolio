@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.2a9627d0.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.aee08a02.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.aee08a02.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.853986cc.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.853986cc.js.map",
+    "static/js/2.5e739525.chunk.js": "/react-portfolio/static/js/2.5e739525.chunk.js",
+    "static/js/2.5e739525.chunk.js.map": "/react-portfolio/static/js/2.5e739525.chunk.js.map",
+    "static/js/3.dabdb02c.chunk.js": "/react-portfolio/static/js/3.dabdb02c.chunk.js",
+    "static/js/3.dabdb02c.chunk.js.map": "/react-portfolio/static/js/3.dabdb02c.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.2a9627d0.chunk.css.map": "/react-portfolio/static/css/main.2a9627d0.chunk.css.map",
+    "static/js/2.5e739525.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5e739525.chunk.js.LICENSE.txt",
+    "static/media/bio-image-2.f6a6bee2.png": "/react-portfolio/static/media/bio-image-2.f6a6bee2.png",
+    "static/media/eat-da-burger-screenshot1.b178f699.png": "/react-portfolio/static/media/eat-da-burger-screenshot1.b178f699.png",
+    "static/media/graham-elphick-resume.4fe186de.pdf": "/react-portfolio/static/media/graham-elphick-resume.4fe186de.pdf",
+    "static/media/passwordgenerator-screenshot1.a5446d14.png": "/react-portfolio/static/media/passwordgenerator-screenshot1.a5446d14.png",
+    "static/media/rainorshine-screenshot1.4f976d3d.png": "/react-portfolio/static/media/rainorshine-screenshot1.4f976d3d.png",
+    "static/media/weatherdashboard-screenshot1.34b918cc.png": "/react-portfolio/static/media/weatherdashboard-screenshot1.34b918cc.png",
+    "static/media/wishlist-screenshot1.7fbee2cd.png": "/react-portfolio/static/media/wishlist-screenshot1.7fbee2cd.png",
+    "static/media/workdayplanner-screenshot1.cb6479cb.png": "/react-portfolio/static/media/workdayplanner-screenshot1.cb6479cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.853986cc.js",
+    "static/js/2.5e739525.chunk.js",
+    "static/css/main.2a9627d0.chunk.css",
+    "static/js/main.aee08a02.chunk.js"
+  ]
+}
