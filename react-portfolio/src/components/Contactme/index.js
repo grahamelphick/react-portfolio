@@ -2,6 +2,7 @@ import React from "react";
 import Container from "../Container";
 import Row from "../Row";
 import Col from "../Col";
+import Resume from "../../assets/graham-elphick-resume.pdf"
 
 function ContactMe() {
     return (
@@ -20,7 +21,7 @@ function ContactMe() {
 
                         <br></br><br></br>
 
-                        <a href="assets/graham-elphick-resume.pdf" target="_blank">RESUME</a>
+                        <a href={Resume} target="_blank">RESUME</a>
 
                         <br></br><br></br>
 
