@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-portfolio">
       <div>
         <Navbar />
         <Route exact path="/" component={About} />
